@@ -31,7 +31,7 @@
 #### Code execution steps
 
 <ul>
-    <li> Install require project dependencies - ignore if already installed</li>
+    <li> Install require project dependencies: : Pandas, json, psycopg2, configparser, logging, pytz, datetime- ignore if already installed</li>
     <li> Change datbase auth credentials in db_credentials.ini file</li>
     <li> Run homer_test.py - It will create table and insert records into database</li>
     <li> Run fetch_subscription_count() of homer_test.py to fetch subscription frequencies</li>
