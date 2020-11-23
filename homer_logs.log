@@ -1,0 +1,73 @@
+"2020-11-23 04:50:59" - DEBUG - Home_cb class's constructor called
+"2020-11-23 04:50:59" - INFO - close_success: Connection closed
+"2020-11-23 04:50:59" - INFO - close_success: Connection closed
+"2020-11-23 04:50:59" - INFO - close_success: Connection closed
+"2020-11-23 05:25:42" - DEBUG - Home_cb class's constructor called
+"2020-11-23 05:25:42" - INFO - close_success: Connection closed
+"2020-11-23 05:25:42" - INFO - close_success: Connection closed
+"2020-11-23 05:25:42" - INFO - close_success: Connection closed
+"2020-11-23 05:25:42" - INFO - close_success: Connection closed
+"2020-11-23 05:25:42" - INFO - close_success: Connection closed
+"2020-11-23 05:25:42" - INFO - close_success: Connection closed
+"2020-11-23 05:25:42" - INFO - {'Active Trial': 0, 'Expired Trial': 2, 'Active Subscription': 0, 'Expired Subscription': 3}
+"2020-11-23 07:07:49" - DEBUG - Home_cb class's constructor called
+"2020-11-23 07:07:49" - INFO - close_success: Connection closed
+"2020-11-23 07:07:51" - INFO - close_success: Connection closed
+"2020-11-23 07:07:51" - INFO - close_success: Connection closed
+"2020-11-23 07:07:51" - INFO - close_success: Connection closed
+"2020-11-23 07:07:51" - INFO - close_success: Connection closed
+"2020-11-23 07:07:51" - INFO - close_success: Connection closed
+"2020-11-23 07:07:51" - INFO - {'Active Trial': 0, 'Expired Trial': 2, 'Active Subscription': 0, 'Expired Subscription': 3}
+"2020-11-23 07:08:10" - DEBUG - Home_cb class's constructor called
+"2020-11-23 07:08:10" - INFO - close_success: Connection closed
+"2020-11-23 07:08:10" - INFO - close_success: Connection closed
+"2020-11-23 07:08:11" - INFO - close_success: Connection closed
+"2020-11-23 07:08:11" - INFO - close_success: Connection closed
+"2020-11-23 07:08:11" - INFO - close_success: Connection closed
+"2020-11-23 07:08:11" - INFO - close_success: Connection closed
+"2020-11-23 07:08:11" - INFO - {'Active Trial': 0, 'Expired Trial': 2, 'Active Subscription': 0, 'Expired Subscription': 3}
+"2020-11-23 07:10:15" - DEBUG - Home_cb class's constructor called
+"2020-11-23 07:10:15" - INFO - close_success: Connection closed
+"2020-11-23 07:10:16" - INFO - close_success: Connection closed
+"2020-11-23 07:10:16" - INFO - close_success: Connection closed
+"2020-11-23 07:10:16" - INFO - close_success: Connection closed
+"2020-11-23 07:10:16" - INFO - close_success: Connection closed
+"2020-11-23 07:10:16" - INFO - close_success: Connection closed
+"2020-11-23 07:10:16" - INFO - {'Active Trial': 0, 'Expired Trial': 2, 'Active Subscription': 0, 'Expired Subscription': 3}
+"2020-11-23 07:14:32" - DEBUG - Home_cb class's constructor called
+"2020-11-23 07:14:32" - INFO - close_success: Connection closed
+"2020-11-23 07:14:32" - INFO - close_success: Connection closed
+"2020-11-23 07:14:32" - INFO - close_success: Connection closed
+"2020-11-23 07:14:32" - INFO - close_success: Connection closed
+"2020-11-23 07:14:32" - INFO - close_success: Connection closed
+"2020-11-23 07:14:32" - INFO - close_success: Connection closed
+"2020-11-23 07:14:32" - INFO - {'Active Trial': 0, 'Expired Trial': 2, 'Active Subscription': 0, 'Expired Subscription': 3}
+"2020-11-23 07:23:43" - DEBUG - Home_cb class's constructor called
+"2020-11-23 07:23:43" - INFO - close_success: Connection closed
+"2020-11-23 07:23:43" - INFO - close_success: Connection closed
+"2020-11-23 07:23:43" - ERROR - column "curr_sta" does not exist
+LINE 1: select count(*) from itunes_subscription where curr_sta = 'A...
+                                                       ^
+
+"2020-11-23 07:23:43" - INFO - close_failure: Connection closed
+"2020-11-23 07:23:43" - DEBUG - Get count transaction could not complete, returned with error: 
+"2020-11-23 07:23:43" - ERROR - column "curr_sta" does not exist
+LINE 1: select count(*) from itunes_subscription where curr_sta = 'A...
+                                                       ^
+
+"2020-11-23 07:25:41" - DEBUG - Home_cb class's constructor called
+"2020-11-23 07:25:42" - INFO - close_success: Connection closed
+"2020-11-23 07:25:42" - INFO - close_success: Connection closed
+"2020-11-23 07:25:42" - INFO - close_success: Connection closed
+"2020-11-23 07:25:42" - INFO - close_success: Connection closed
+"2020-11-23 07:25:42" - INFO - close_success: Connection closed
+"2020-11-23 07:25:42" - INFO - close_success: Connection closed
+"2020-11-23 07:25:42" - INFO - {'Active Trial': 0, 'Expired Trial': 2, 'Active Subscription': 0, 'Expired Subscription': 3}
+"2020-11-23 09:26:22" - DEBUG - Home_cb class's constructor called
+"2020-11-23 09:26:22" - INFO - close_success: Connection closed
+"2020-11-23 09:26:23" - INFO - close_success: Connection closed
+"2020-11-23 09:26:23" - INFO - close_success: Connection closed
+"2020-11-23 09:26:23" - INFO - close_success: Connection closed
+"2020-11-23 09:26:23" - INFO - close_success: Connection closed
+"2020-11-23 09:26:23" - INFO - close_success: Connection closed
+"2020-11-23 09:26:23" - INFO - {'Active Trial': 0, 'Expired Trial': 2, 'Active Subscription': 0, 'Expired Subscription': 3}
