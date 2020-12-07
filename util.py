@@ -16,7 +16,7 @@ def with_location(df_date):
 #Calculate trial start date where 'is_trial_period' is True
 def calc_trial_start_date(df):
     return with_location((df[df['is_trial_period']=='true']['purchase_date']).iloc[0])
-    
+
 
 # Calculate subscription start date which is equal to 'purchase_date' for the transaction that immediately follows a trail
 def calc_sub_start_date(df):

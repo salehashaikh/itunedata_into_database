@@ -7,6 +7,7 @@ class Subscription:
             db.query("select * from itunes_subscription;")  #fetch all sql query
             results = db.get_cur().fetchall()
             columns = ["id", "transactions", "trial_start_date", "subscription_start_date", "expiration_date","current_status"]
+            #columns = ["id", "trial_start_date", "subscription_start_date", "expiration_date","current_status"]
             records = pd.DataFrame(columns=columns, index = [i for i in range(0,len(results))]) #setting dataframe columns and indexes
             row = 0 #Initializing index to iterate while inserting data in dataframe
             for result in results:  #Iterating over results fetched from database 
@@ -36,6 +37,19 @@ class Subscription:
         except Exception as e:
             db.close_failure() #this includes transaction rollback
             db.get_logger().debug("Get count transaction could not complete, returned with error: ")
+            db.get_logger().error(e)
+            return None #returning None, since exception has occured
+        finally:
+            db.close_success() #commit the changes and close connection and cursor
+    
+    def get_records_count(self, db):
+        try:
+            db.query("select count(*) from itunes_subscription;")
+            results = db.get_cur().fetchall()
+            return results[0][0]
+        except Exception as e:
+            db.close_failure() #this includes transaction rollback
+            db.get_logger().debug("Get records count count transaction could not complete, returned with error: ")
             db.get_logger().error(e)
             return None #returning None, since exception has occured
         finally:
@@ -71,8 +85,21 @@ class Subscription:
                                 ) VALUES (%s::json[],%s, %s, %s, %s)"""
             db.query(SQL_INSERT_QUERY, values)
         except Exception as e:
+            db.close_failure() #this includes transaction rollback
             db.get_logger().debug("Insert transaction could not complete, returned with error: ")
             db.get_logger().error(e)
             raise  #raising error again to carch by parent try..except block
-        #db.close_success() - not recomeended to close database connection here, 
-        # since we are processing entries in bulk and connection should close at the end to preserve the atomicity of transaction
+        finally:
+            db.close_success()
+    
+    def delete_table(self, db):
+        try:
+            SQL_DELETE_QUERY = "delete from itunes_subscription;;"
+            db.query(SQL_DELETE_QUERY)
+        except Exception as e:
+            db.close_failure() #this includes transaction rollback
+            db.get_logger().debug("Delete table transaction could not complete, returned with error: ")
+            db.get_logger().error(e)
+            raise  #raising error again to carch by parent try..except block
+        finally:
+            db.close_success()

@@ -12,11 +12,12 @@ class Homer_db():
     __cur = None
     __conn = None
     __logger = logging.getLogger("main")
-    def __init__(self, db="myDB", user="postgres", password='salu@2109'):
+    __env = "dev_server"
+    def __init__(self):
         try:
-            self.__conn = psycopg2.connect(database=config['dev_server']['database'],
-                                            user=config['dev_server']['user'], 
-                                            password=config['dev_server']['password'])
+            self.__conn = psycopg2.connect(database=config[self.__env]['database'],
+                                            user=config[self.__env]['user'], 
+                                            password=config[self.__env]['password'])
             self.__cur = self.__conn.cursor()
             self.__logger.debug("Home_cb class's constructor called")
         except Exception as e:
@@ -53,10 +54,13 @@ class Homer_db():
     
     def get_conn(self):
         if(self.__conn.closed == 1): 
-            self.__conn= psycopg2.connect(database=config['dev_server']['database'],
-                                    user=config['dev_server']['user'], 
-                                    password=config['dev_server']['password'])
+            self.__conn= psycopg2.connect(database=config[self.__env]['database'],
+                                    user=config[self.__env]['user'], 
+                                    password=config[self.__env]['password'])
         return self.__conn
     
     def get_logger(self):
         return self.__logger
+
+    def set_env_var(self, env):
+        self.__env = env+"_server"

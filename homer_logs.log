@@ -71,3 +71,605 @@ LINE 1: select count(*) from itunes_subscription where curr_sta = 'A...
 "2020-11-23 09:26:23" - INFO - close_success: Connection closed
 "2020-11-23 09:26:23" - INFO - close_success: Connection closed
 "2020-11-23 09:26:23" - INFO - {'Active Trial': 0, 'Expired Trial': 2, 'Active Subscription': 0, 'Expired Subscription': 3}
+"2020-12-06 02:21:14" - DEBUG - Exception occured in constructor of Homer_db class
+"2020-12-06 02:21:14" - ERROR - could not connect to server: Connection refused (0x0000274D/10061)
+	Is the server running on host "localhost" (::1) and accepting
+	TCP/IP connections on port 5432?
+could not connect to server: Connection refused (0x0000274D/10061)
+	Is the server running on host "localhost" (127.0.0.1) and accepting
+	TCP/IP connections on port 5432?
+
+"2020-12-06 02:21:42" - DEBUG - Exception occured in constructor of Homer_db class
+"2020-12-06 02:21:42" - ERROR - could not connect to server: Connection refused (0x0000274D/10061)
+	Is the server running on host "localhost" (::1) and accepting
+	TCP/IP connections on port 5432?
+could not connect to server: Connection refused (0x0000274D/10061)
+	Is the server running on host "localhost" (127.0.0.1) and accepting
+	TCP/IP connections on port 5432?
+
+"2020-12-06 02:21:57" - DEBUG - Exception occured in constructor of Homer_db class
+"2020-12-06 02:21:57" - ERROR - could not connect to server: Connection refused (0x0000274D/10061)
+	Is the server running on host "localhost" (::1) and accepting
+	TCP/IP connections on port 5432?
+could not connect to server: Connection refused (0x0000274D/10061)
+	Is the server running on host "localhost" (127.0.0.1) and accepting
+	TCP/IP connections on port 5432?
+
+"2020-12-06 02:22:09" - DEBUG - Exception occured in constructor of Homer_db class
+"2020-12-06 02:22:09" - ERROR - could not connect to server: Connection refused (0x0000274D/10061)
+	Is the server running on host "localhost" (::1) and accepting
+	TCP/IP connections on port 5432?
+could not connect to server: Connection refused (0x0000274D/10061)
+	Is the server running on host "localhost" (127.0.0.1) and accepting
+	TCP/IP connections on port 5432?
+
+"2020-12-06 02:22:09" - ERROR - Incorrect operation entered, enter anyone from insert, create, select, delete, count
+"2020-12-06 02:33:33" - DEBUG - Exception occured in constructor of Homer_db class
+"2020-12-06 02:33:33" - ERROR - could not connect to server: Connection refused (0x0000274D/10061)
+	Is the server running on host "localhost" (::1) and accepting
+	TCP/IP connections on port 5432?
+could not connect to server: Connection refused (0x0000274D/10061)
+	Is the server running on host "localhost" (127.0.0.1) and accepting
+	TCP/IP connections on port 5432?
+
+"2020-12-06 02:35:01" - DEBUG - Exception occured in constructor of Homer_db class
+"2020-12-06 02:35:01" - ERROR - could not connect to server: Connection refused (0x0000274D/10061)
+	Is the server running on host "localhost" (::1) and accepting
+	TCP/IP connections on port 5432?
+could not connect to server: Connection refused (0x0000274D/10061)
+	Is the server running on host "localhost" (127.0.0.1) and accepting
+	TCP/IP connections on port 5432?
+
+"2020-12-06 02:36:29" - DEBUG - Exception occured in constructor of Homer_db class
+"2020-12-06 02:36:29" - ERROR - could not connect to server: Connection refused (0x0000274D/10061)
+	Is the server running on host "localhost" (::1) and accepting
+	TCP/IP connections on port 5432?
+could not connect to server: Connection refused (0x0000274D/10061)
+	Is the server running on host "localhost" (127.0.0.1) and accepting
+	TCP/IP connections on port 5432?
+
+"2020-12-06 02:37:05" - DEBUG - Exception occured in constructor of Homer_db class
+"2020-12-06 02:37:05" - ERROR - could not connect to server: Connection refused (0x0000274D/10061)
+	Is the server running on host "localhost" (::1) and accepting
+	TCP/IP connections on port 5432?
+could not connect to server: Connection refused (0x0000274D/10061)
+	Is the server running on host "localhost" (127.0.0.1) and accepting
+	TCP/IP connections on port 5432?
+
+"2020-12-06 02:37:05" - ERROR - Incorrect environment entered, either enter dev or prod
+"2020-12-06 02:37:58" - DEBUG - Exception occured in constructor of Homer_db class
+"2020-12-06 02:37:58" - ERROR - could not connect to server: Connection refused (0x0000274D/10061)
+	Is the server running on host "localhost" (::1) and accepting
+	TCP/IP connections on port 5432?
+could not connect to server: Connection refused (0x0000274D/10061)
+	Is the server running on host "localhost" (127.0.0.1) and accepting
+	TCP/IP connections on port 5432?
+
+"2020-12-06 02:37:58" - ERROR - Incorrect environment entered, either enter dev or prod
+"2020-12-06 02:41:35" - DEBUG - Exception occured in constructor of Homer_db class
+"2020-12-06 02:41:35" - ERROR - could not connect to server: Connection refused (0x0000274D/10061)
+	Is the server running on host "localhost" (::1) and accepting
+	TCP/IP connections on port 5432?
+could not connect to server: Connection refused (0x0000274D/10061)
+	Is the server running on host "localhost" (127.0.0.1) and accepting
+	TCP/IP connections on port 5432?
+
+"2020-12-06 02:41:35" - ERROR - Incorrect environment entered, either enter dev or prod
+"2020-12-06 02:42:03" - DEBUG - Exception occured in constructor of Homer_db class
+"2020-12-06 02:42:03" - ERROR - could not connect to server: Connection refused (0x0000274D/10061)
+	Is the server running on host "localhost" (::1) and accepting
+	TCP/IP connections on port 5432?
+could not connect to server: Connection refused (0x0000274D/10061)
+	Is the server running on host "localhost" (127.0.0.1) and accepting
+	TCP/IP connections on port 5432?
+
+"2020-12-06 02:42:03" - ERROR - Incorrect environment entered, either enter dev or prod
+"2020-12-06 02:43:23" - DEBUG - Exception occured in constructor of Homer_db class
+"2020-12-06 02:43:23" - ERROR - could not connect to server: Connection refused (0x0000274D/10061)
+	Is the server running on host "localhost" (::1) and accepting
+	TCP/IP connections on port 5432?
+could not connect to server: Connection refused (0x0000274D/10061)
+	Is the server running on host "localhost" (127.0.0.1) and accepting
+	TCP/IP connections on port 5432?
+
+"2020-12-06 02:43:23" - ERROR - Incorrect environment entered, either enter dev or prod
+"2020-12-06 02:44:01" - DEBUG - Exception occured in constructor of Homer_db class
+"2020-12-06 02:44:01" - ERROR - could not connect to server: Connection refused (0x0000274D/10061)
+	Is the server running on host "localhost" (::1) and accepting
+	TCP/IP connections on port 5432?
+could not connect to server: Connection refused (0x0000274D/10061)
+	Is the server running on host "localhost" (127.0.0.1) and accepting
+	TCP/IP connections on port 5432?
+
+"2020-12-06 02:44:01" - ERROR - Incorrect environment entered, either enter dev or prod
+"2020-12-06 02:44:30" - DEBUG - Exception occured in constructor of Homer_db class
+"2020-12-06 02:44:30" - ERROR - could not connect to server: Connection refused (0x0000274D/10061)
+	Is the server running on host "localhost" (::1) and accepting
+	TCP/IP connections on port 5432?
+could not connect to server: Connection refused (0x0000274D/10061)
+	Is the server running on host "localhost" (127.0.0.1) and accepting
+	TCP/IP connections on port 5432?
+
+"2020-12-06 02:45:29" - DEBUG - Exception occured in constructor of Homer_db class
+"2020-12-06 02:45:29" - ERROR - could not connect to server: Connection refused (0x0000274D/10061)
+	Is the server running on host "localhost" (::1) and accepting
+	TCP/IP connections on port 5432?
+could not connect to server: Connection refused (0x0000274D/10061)
+	Is the server running on host "localhost" (127.0.0.1) and accepting
+	TCP/IP connections on port 5432?
+
+"2020-12-06 02:45:29" - ERROR - Incorrect environment entered, either enter dev or prod
+"2020-12-06 02:46:08" - DEBUG - Exception occured in constructor of Homer_db class
+"2020-12-06 02:46:08" - ERROR - could not connect to server: Connection refused (0x0000274D/10061)
+	Is the server running on host "localhost" (::1) and accepting
+	TCP/IP connections on port 5432?
+could not connect to server: Connection refused (0x0000274D/10061)
+	Is the server running on host "localhost" (127.0.0.1) and accepting
+	TCP/IP connections on port 5432?
+
+"2020-12-06 02:46:08" - ERROR - Incorrect environment entered, either enter dev or prod
+"2020-12-06 02:48:51" - DEBUG - Exception occured in constructor of Homer_db class
+"2020-12-06 02:48:51" - ERROR - could not connect to server: Connection refused (0x0000274D/10061)
+	Is the server running on host "localhost" (::1) and accepting
+	TCP/IP connections on port 5432?
+could not connect to server: Connection refused (0x0000274D/10061)
+	Is the server running on host "localhost" (127.0.0.1) and accepting
+	TCP/IP connections on port 5432?
+
+"2020-12-06 02:48:53" - ERROR - 'NoneType' object has no attribute 'closed'
+"2020-12-06 02:48:53" - DEBUG - Insert transaction could not complete, returned with error: 
+"2020-12-06 02:48:53" - ERROR - 'NoneType' object has no attribute 'closed'
+"2020-12-06 08:36:15" - DEBUG - Home_cb class's constructor called
+"2020-12-06 08:36:15" - INFO - close_success: Connection closed
+"2020-12-06 08:38:58" - DEBUG - Home_cb class's constructor called
+"2020-12-06 08:38:58" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:38:58" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:38:58" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:38:58" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:38:58" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:38:58" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:38:58" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:38:58" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:38:58" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:38:58" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:38:58" - DEBUG - select_all: All records fetched from database
+"2020-12-06 08:38:58" - INFO - close_success: Connection closed
+"2020-12-06 08:41:41" - DEBUG - Home_cb class's constructor called
+"2020-12-06 08:41:42" - INFO - close_success: Connection closed
+"2020-12-06 08:42:20" - DEBUG - Home_cb class's constructor called
+"2020-12-06 08:42:20" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:42:20" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:42:20" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:42:20" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:42:20" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:42:20" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:42:20" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:42:20" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:42:20" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:42:20" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:42:20" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:42:20" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:42:20" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:42:20" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:42:20" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:42:20" - DEBUG - select_all: All records fetched from database
+"2020-12-06 08:42:20" - INFO - close_success: Connection closed
+"2020-12-06 08:43:51" - DEBUG - Home_cb class's constructor called
+"2020-12-06 08:43:51" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:43:51" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:43:51" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:43:51" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:43:51" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:43:51" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:43:51" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:43:51" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:43:51" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:43:51" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:43:51" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:43:51" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:43:51" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:43:51" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:43:51" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:43:51" - DEBUG - select_all: All records fetched from database
+"2020-12-06 08:43:51" - INFO - close_success: Connection closed
+"2020-12-06 08:49:28" - DEBUG - Home_cb class's constructor called
+"2020-12-06 08:49:28" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:49:28" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:49:28" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:49:28" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:49:28" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:49:28" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:49:28" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:49:28" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:49:28" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:49:28" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:49:28" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:49:28" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:49:28" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:49:28" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:49:28" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 08:49:28" - DEBUG - select_all: All records fetched from database
+"2020-12-06 08:49:28" - INFO - close_success: Connection closed
+"2020-12-06 08:53:00" - DEBUG - Home_cb class's constructor called
+"2020-12-06 08:53:00" - INFO - close_success: Connection closed
+"2020-12-06 08:53:00" - INFO - close_success: Connection closed
+"2020-12-06 08:53:00" - INFO - close_success: Connection closed
+"2020-12-06 08:53:00" - INFO - close_success: Connection closed
+"2020-12-06 08:53:00" - INFO - {'Active Trial': 0, 'Expired Trial': 6, 'Active Subscription': 0, 'Expired Subscription': 9}
+"2020-12-06 14:05:49" - DEBUG - Home_cb class's constructor called
+"2020-12-06 14:05:49" - INFO - close_success: Connection closed
+"2020-12-06 14:05:49" - INFO - close_success: Connection closed
+"2020-12-06 14:05:49" - INFO - close_success: Connection closed
+"2020-12-06 14:05:49" - INFO - close_success: Connection closed
+"2020-12-06 14:05:49" - INFO - {'Active Trial': 0, 'Expired Trial': 6, 'Active Subscription': 0, 'Expired Subscription': 9}
+"2020-12-06 14:07:35" - DEBUG - Home_cb class's constructor called
+"2020-12-06 14:07:35" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 14:07:35" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 14:07:35" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 14:07:35" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 14:07:35" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 14:07:35" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 14:07:35" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 14:07:35" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 14:07:35" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 14:07:35" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 14:07:35" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 14:07:35" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 14:07:35" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 14:07:35" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 14:07:35" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 14:07:35" - DEBUG - select_all: All records fetched from database
+"2020-12-06 14:07:35" - INFO - close_success: Connection closed
+"2020-12-06 22:20:43" - DEBUG - Home_cb class's constructor called
+"2020-12-06 22:20:43" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:20:43" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:20:43" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:20:43" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:20:43" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:20:43" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:20:43" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:20:43" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:20:43" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:20:43" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:20:43" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:20:43" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:20:43" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:20:43" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:20:43" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:20:43" - DEBUG - select_all: All records fetched from database
+"2020-12-06 22:20:43" - INFO - close_success: Connection closed
+"2020-12-06 22:22:28" - DEBUG - Home_cb class's constructor called
+"2020-12-06 22:22:28" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:22:28" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:22:28" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:22:28" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:22:28" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:22:28" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:22:28" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:22:28" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:22:28" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:22:28" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:22:28" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:22:28" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:22:28" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:22:28" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:22:28" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:22:28" - DEBUG - select_all: All records fetched from database
+"2020-12-06 22:22:28" - INFO - close_success: Connection closed
+"2020-12-06 22:22:28" - INFO - Records saved in homer_db_records.csv file
+"2020-12-06 22:24:53" - DEBUG - Home_cb class's constructor called
+"2020-12-06 22:24:53" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:24:53" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:24:53" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:24:53" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:24:53" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:24:53" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:24:53" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:24:53" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:24:53" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:24:53" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:24:53" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:24:53" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:24:53" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:24:53" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:24:53" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:24:53" - DEBUG - select_all: All records fetched from database
+"2020-12-06 22:24:53" - INFO - close_success: Connection closed
+"2020-12-06 22:25:59" - DEBUG - Home_cb class's constructor called
+"2020-12-06 22:26:00" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:26:00" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:26:00" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:26:00" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:26:00" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:26:00" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:26:00" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:26:00" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:26:00" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:26:00" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:26:00" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:26:00" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:26:00" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:26:00" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:26:00" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:26:00" - DEBUG - select_all: All records fetched from database
+"2020-12-06 22:26:00" - INFO - close_success: Connection closed
+"2020-12-06 22:26:00" - INFO - Records saved in homer_db_records.csv file
+"2020-12-06 22:26:35" - DEBUG - Home_cb class's constructor called
+"2020-12-06 22:26:35" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:26:35" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:26:35" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:26:35" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:26:35" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:26:35" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:26:35" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:26:35" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:26:35" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:26:35" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:26:35" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:26:35" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:26:35" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:26:35" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:26:35" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:26:35" - DEBUG - select_all: All records fetched from database
+"2020-12-06 22:26:35" - INFO - close_success: Connection closed
+"2020-12-06 22:26:47" - DEBUG - Home_cb class's constructor called
+"2020-12-06 22:26:47" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:26:47" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:26:47" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:26:47" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:26:47" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:26:47" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:26:47" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:26:47" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:26:47" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:26:47" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:26:47" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:26:47" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:26:47" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:26:47" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:26:47" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:26:47" - DEBUG - select_all: All records fetched from database
+"2020-12-06 22:26:47" - INFO - close_success: Connection closed
+"2020-12-06 22:26:47" - INFO - Records saved in homer_db_records.csv file
+"2020-12-06 22:32:40" - DEBUG - Home_cb class's constructor called
+"2020-12-06 22:32:40" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:32:40" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:32:40" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:32:40" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:32:40" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:32:40" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:32:40" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:32:40" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:32:40" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:32:40" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:32:40" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:32:40" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:32:40" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:32:40" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:32:40" - DEBUG - select_all: Row added to dataframe
+"2020-12-06 22:32:40" - DEBUG - select_all: All records fetched from database
+"2020-12-06 22:32:40" - INFO - close_success: Connection closed
+"2020-12-06 22:32:40" - INFO - Records saved in homer_db_records.csv file
+"2020-12-07 01:32:06" - DEBUG - Home_cb class's constructor called
+"2020-12-07 01:33:39" - DEBUG - Home_cb class's constructor called
+"2020-12-07 01:33:40" - INFO - close_success: Connection closed
+"2020-12-07 01:33:40" - INFO - close_success: Connection closed
+"2020-12-07 01:33:40" - ERROR - relation "itunes_subscription" does not exist
+LINE 1: select count(*) from itunes_subscription;
+                             ^
+
+"2020-12-07 01:33:40" - INFO - close_failure: Connection closed
+"2020-12-07 01:33:40" - DEBUG - Get records count count transaction could not complete, returned with error: 
+"2020-12-07 01:33:40" - ERROR - relation "itunes_subscription" does not exist
+LINE 1: select count(*) from itunes_subscription;
+                             ^
+
+"2020-12-07 01:33:40" - INFO - close_success: Connection closed
+"2020-12-07 01:33:47" - INFO - close_success: Connection closed
+"2020-12-07 01:33:47" - INFO - close_success: Connection closed
+"2020-12-07 01:33:47" - INFO - close_success: Connection closed
+"2020-12-07 01:33:47" - INFO - close_success: Connection closed
+"2020-12-07 01:33:47" - INFO - close_success: Connection closed
+"2020-12-07 01:33:47" - INFO - close_success: Connection closed
+"2020-12-07 01:33:47" - INFO - close_success: Connection closed
+"2020-12-07 01:33:47" - INFO - close_success: Connection closed
+"2020-12-07 01:33:47" - INFO - close_success: Connection closed
+"2020-12-07 01:33:47" - INFO - close_success: Connection closed
+"2020-12-07 01:33:47" - INFO - close_success: Connection closed
+"2020-12-07 01:33:47" - INFO - close_success: Connection closed
+"2020-12-07 01:33:48" - INFO - close_success: Connection closed
+"2020-12-07 01:33:48" - INFO - close_success: Connection closed
+"2020-12-07 01:38:23" - DEBUG - Home_cb class's constructor called
+"2020-12-07 01:38:23" - INFO - close_success: Connection closed
+"2020-12-07 01:38:23" - INFO - close_success: Connection closed
+"2020-12-07 01:38:23" - INFO - close_success: Connection closed
+"2020-12-07 01:38:23" - ERROR - relation "itunes_subscription" does not exist
+LINE 1: select count(*) from itunes_subscription;
+                             ^
+
+"2020-12-07 01:38:23" - INFO - close_failure: Connection closed
+"2020-12-07 01:38:23" - DEBUG - Get records count count transaction could not complete, returned with error: 
+"2020-12-07 01:38:23" - ERROR - relation "itunes_subscription" does not exist
+LINE 1: select count(*) from itunes_subscription;
+                             ^
+
+"2020-12-07 01:38:23" - INFO - close_success: Connection closed
+"2020-12-07 01:38:23" - INFO - close_success: Connection closed
+"2020-12-07 01:38:23" - INFO - close_success: Connection closed
+"2020-12-07 01:38:23" - INFO - close_success: Connection closed
+"2020-12-07 01:38:24" - INFO - close_success: Connection closed
+"2020-12-07 01:38:24" - INFO - close_success: Connection closed
+"2020-12-07 01:38:24" - INFO - close_success: Connection closed
+"2020-12-07 01:38:24" - INFO - close_success: Connection closed
+"2020-12-07 01:38:24" - INFO - close_success: Connection closed
+"2020-12-07 01:38:24" - INFO - close_success: Connection closed
+"2020-12-07 01:38:24" - INFO - close_success: Connection closed
+"2020-12-07 01:38:24" - INFO - close_success: Connection closed
+"2020-12-07 01:38:24" - INFO - close_success: Connection closed
+"2020-12-07 01:38:24" - INFO - close_success: Connection closed
+"2020-12-07 01:38:25" - INFO - close_success: Connection closed
+"2020-12-07 01:40:30" - DEBUG - Home_cb class's constructor called
+"2020-12-07 01:40:30" - INFO - close_success: Connection closed
+"2020-12-07 01:40:30" - INFO - close_success: Connection closed
+"2020-12-07 01:40:30" - INFO - close_success: Connection closed
+"2020-12-07 01:40:31" - INFO - close_success: Connection closed
+"2020-12-07 01:40:31" - INFO - close_success: Connection closed
+"2020-12-07 01:40:31" - INFO - close_success: Connection closed
+"2020-12-07 01:40:31" - INFO - close_success: Connection closed
+"2020-12-07 01:40:31" - INFO - close_success: Connection closed
+"2020-12-07 01:40:31" - INFO - close_success: Connection closed
+"2020-12-07 01:40:31" - INFO - close_success: Connection closed
+"2020-12-07 01:40:32" - INFO - close_success: Connection closed
+"2020-12-07 01:40:32" - INFO - close_success: Connection closed
+"2020-12-07 01:40:32" - INFO - close_success: Connection closed
+"2020-12-07 01:40:32" - INFO - close_success: Connection closed
+"2020-12-07 01:40:32" - INFO - close_success: Connection closed
+"2020-12-07 01:40:32" - INFO - close_success: Connection closed
+"2020-12-07 01:40:32" - INFO - close_success: Connection closed
+"2020-12-07 01:42:18" - DEBUG - Home_cb class's constructor called
+"2020-12-07 01:42:18" - INFO - close_success: Connection closed
+"2020-12-07 01:42:18" - INFO - close_success: Connection closed
+"2020-12-07 01:42:19" - INFO - close_success: Connection closed
+"2020-12-07 01:42:19" - INFO - close_success: Connection closed
+"2020-12-07 01:42:19" - INFO - close_success: Connection closed
+"2020-12-07 01:42:19" - INFO - close_success: Connection closed
+"2020-12-07 01:42:19" - INFO - close_success: Connection closed
+"2020-12-07 01:42:19" - INFO - close_success: Connection closed
+"2020-12-07 01:42:19" - INFO - close_success: Connection closed
+"2020-12-07 01:42:19" - INFO - close_success: Connection closed
+"2020-12-07 01:42:19" - ERROR - relation "itunes_subscription" does not exist
+LINE 1: select count(*) from itunes_subscription;
+                             ^
+
+"2020-12-07 01:42:19" - INFO - close_failure: Connection closed
+"2020-12-07 01:42:19" - DEBUG - Get records count count transaction could not complete, returned with error: 
+"2020-12-07 01:42:19" - ERROR - relation "itunes_subscription" does not exist
+LINE 1: select count(*) from itunes_subscription;
+                             ^
+
+"2020-12-07 01:42:19" - INFO - close_success: Connection closed
+"2020-12-07 01:42:19" - INFO - close_success: Connection closed
+"2020-12-07 01:42:19" - INFO - close_success: Connection closed
+"2020-12-07 01:42:19" - INFO - close_success: Connection closed
+"2020-12-07 01:42:20" - INFO - close_success: Connection closed
+"2020-12-07 01:42:20" - INFO - close_success: Connection closed
+"2020-12-07 01:42:20" - INFO - close_success: Connection closed
+"2020-12-07 01:42:58" - DEBUG - Home_cb class's constructor called
+"2020-12-07 01:42:58" - INFO - close_success: Connection closed
+"2020-12-07 01:42:58" - INFO - close_success: Connection closed
+"2020-12-07 01:42:58" - INFO - close_success: Connection closed
+"2020-12-07 01:42:59" - INFO - close_success: Connection closed
+"2020-12-07 01:42:59" - INFO - close_success: Connection closed
+"2020-12-07 01:42:59" - INFO - close_success: Connection closed
+"2020-12-07 01:42:59" - INFO - close_success: Connection closed
+"2020-12-07 01:42:59" - INFO - close_success: Connection closed
+"2020-12-07 01:42:59" - INFO - close_success: Connection closed
+"2020-12-07 01:42:59" - INFO - close_success: Connection closed
+"2020-12-07 01:42:59" - ERROR - relation "itunes_subscription" does not exist
+LINE 1: select count(*) from itunes_subscription;
+                             ^
+
+"2020-12-07 01:42:59" - INFO - close_failure: Connection closed
+"2020-12-07 01:42:59" - DEBUG - Get records count count transaction could not complete, returned with error: 
+"2020-12-07 01:42:59" - ERROR - relation "itunes_subscription" does not exist
+LINE 1: select count(*) from itunes_subscription;
+                             ^
+
+"2020-12-07 01:42:59" - INFO - close_success: Connection closed
+"2020-12-07 01:42:59" - INFO - close_success: Connection closed
+"2020-12-07 01:42:59" - INFO - close_success: Connection closed
+"2020-12-07 01:42:59" - INFO - close_success: Connection closed
+"2020-12-07 01:42:59" - INFO - close_success: Connection closed
+"2020-12-07 01:43:00" - INFO - close_success: Connection closed
+"2020-12-07 01:43:00" - INFO - close_success: Connection closed
+"2020-12-07 01:43:50" - DEBUG - Home_cb class's constructor called
+"2020-12-07 01:43:50" - INFO - close_success: Connection closed
+"2020-12-07 01:43:50" - INFO - close_success: Connection closed
+"2020-12-07 01:43:50" - INFO - close_success: Connection closed
+"2020-12-07 01:43:50" - INFO - close_success: Connection closed
+"2020-12-07 01:43:50" - INFO - close_success: Connection closed
+"2020-12-07 01:43:51" - INFO - close_success: Connection closed
+"2020-12-07 01:43:51" - INFO - close_success: Connection closed
+"2020-12-07 01:43:51" - INFO - close_success: Connection closed
+"2020-12-07 01:43:51" - INFO - close_success: Connection closed
+"2020-12-07 01:43:51" - INFO - close_success: Connection closed
+"2020-12-07 01:43:51" - INFO - close_success: Connection closed
+"2020-12-07 01:43:51" - INFO - close_success: Connection closed
+"2020-12-07 01:43:51" - INFO - close_success: Connection closed
+"2020-12-07 01:43:52" - INFO - close_success: Connection closed
+"2020-12-07 01:43:52" - INFO - close_success: Connection closed
+"2020-12-07 01:43:52" - INFO - close_success: Connection closed
+"2020-12-07 01:43:52" - INFO - close_success: Connection closed
+"2020-12-07 01:43:52" - INFO - close_success: Connection closed
+"2020-12-07 01:44:08" - DEBUG - Home_cb class's constructor called
+"2020-12-07 01:44:08" - INFO - close_success: Connection closed
+"2020-12-07 01:44:08" - INFO - close_success: Connection closed
+"2020-12-07 01:44:08" - INFO - close_success: Connection closed
+"2020-12-07 01:44:08" - INFO - close_success: Connection closed
+"2020-12-07 01:44:08" - INFO - close_success: Connection closed
+"2020-12-07 01:44:09" - INFO - close_success: Connection closed
+"2020-12-07 01:44:09" - INFO - close_success: Connection closed
+"2020-12-07 01:44:09" - INFO - close_success: Connection closed
+"2020-12-07 01:44:09" - INFO - close_success: Connection closed
+"2020-12-07 01:44:09" - INFO - close_success: Connection closed
+"2020-12-07 01:44:09" - INFO - close_success: Connection closed
+"2020-12-07 01:44:10" - INFO - close_success: Connection closed
+"2020-12-07 01:44:10" - INFO - close_success: Connection closed
+"2020-12-07 01:44:10" - INFO - close_success: Connection closed
+"2020-12-07 01:44:10" - INFO - close_success: Connection closed
+"2020-12-07 01:44:10" - INFO - close_success: Connection closed
+"2020-12-07 01:44:10" - INFO - close_success: Connection closed
+"2020-12-07 01:44:10" - INFO - close_success: Connection closed
+"2020-12-07 01:44:10" - INFO - close_success: Connection closed
+"2020-12-07 01:44:11" - INFO - close_success: Connection closed
+"2020-12-07 11:08:40" - DEBUG - Home_cb class's constructor called
+"2020-12-07 11:08:40" - INFO - close_success: Connection closed
+"2020-12-07 11:08:40" - INFO - close_success: Connection closed
+"2020-12-07 11:08:40" - INFO - close_success: Connection closed
+"2020-12-07 11:08:40" - INFO - close_success: Connection closed
+"2020-12-07 11:08:42" - INFO - close_success: Connection closed
+"2020-12-07 11:08:42" - INFO - close_success: Connection closed
+"2020-12-07 11:08:42" - INFO - close_success: Connection closed
+"2020-12-07 11:08:42" - INFO - close_success: Connection closed
+"2020-12-07 11:08:42" - INFO - close_success: Connection closed
+"2020-12-07 11:08:42" - INFO - close_success: Connection closed
+"2020-12-07 11:08:42" - INFO - close_success: Connection closed
+"2020-12-07 11:08:42" - INFO - close_success: Connection closed
+"2020-12-07 11:08:42" - INFO - close_success: Connection closed
+"2020-12-07 11:08:42" - INFO - close_success: Connection closed
+"2020-12-07 11:08:43" - INFO - close_success: Connection closed
+"2020-12-07 11:08:43" - INFO - close_success: Connection closed
+"2020-12-07 11:08:43" - INFO - close_success: Connection closed
+"2020-12-07 11:08:43" - INFO - close_success: Connection closed
+"2020-12-07 11:08:43" - INFO - close_success: Connection closed
+"2020-12-07 11:08:43" - INFO - close_success: Connection closed
+"2020-12-07 11:08:44" - DEBUG - Home_cb class's constructor called
+"2020-12-07 11:08:44" - INFO - close_success: Connection closed
+"2020-12-07 11:08:45" - INFO - close_success: Connection closed
+"2020-12-07 11:08:45" - INFO - close_success: Connection closed
+"2020-12-07 11:08:45" - INFO - close_success: Connection closed
+"2020-12-07 11:08:45" - INFO - close_success: Connection closed
+"2020-12-07 11:08:45" - INFO - close_success: Connection closed
+"2020-12-07 11:08:45" - INFO - close_success: Connection closed
+"2020-12-07 11:08:45" - INFO - close_success: Connection closed
+"2020-12-07 11:08:45" - INFO - close_success: Connection closed
+"2020-12-07 11:08:45" - INFO - close_success: Connection closed
+"2020-12-07 11:08:45" - INFO - close_success: Connection closed
+"2020-12-07 11:08:45" - INFO - close_success: Connection closed
+"2020-12-07 11:08:45" - INFO - close_success: Connection closed
+"2020-12-07 11:08:45" - INFO - close_success: Connection closed
+"2020-12-07 11:08:45" - INFO - close_success: Connection closed
+"2020-12-07 11:08:45" - INFO - close_success: Connection closed
+"2020-12-07 11:08:46" - INFO - close_success: Connection closed
+"2020-12-07 11:08:46" - INFO - close_success: Connection closed
+"2020-12-07 11:08:46" - INFO - close_success: Connection closed
+"2020-12-07 11:08:46" - INFO - close_success: Connection closed
+"2020-12-07 11:10:57" - DEBUG - Home_cb class's constructor called
+"2020-12-07 11:10:57" - DEBUG - select_all: Row added to dataframe
+"2020-12-07 11:10:57" - DEBUG - select_all: Row added to dataframe
+"2020-12-07 11:10:57" - DEBUG - select_all: Row added to dataframe
+"2020-12-07 11:10:57" - DEBUG - select_all: Row added to dataframe
+"2020-12-07 11:10:57" - DEBUG - select_all: Row added to dataframe
+"2020-12-07 11:10:57" - DEBUG - select_all: All records fetched from database
+"2020-12-07 11:10:58" - INFO - close_success: Connection closed
+"2020-12-07 11:10:58" - INFO - Records saved in homer_db_records.csv file
